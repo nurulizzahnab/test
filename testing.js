@@ -1,2 +1,2 @@
 let a = "Welcome to Github!"
-console.log(a)
+console.log(a.length)
